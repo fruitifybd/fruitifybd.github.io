@@ -75,7 +75,8 @@ body {
 }
 
 body {
-    font-family: 'Open Sans';
+    /* font-family: 'Open Sans'; */
+    font-family: 'Abel', sans-serif;
     font-weight: 300;
     font-size: 16px;
     color: #555;
